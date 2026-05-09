@@ -13,7 +13,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=aghazjunaid&label=Profile+Views&color=0891b2&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/aghazjunaid?label=Followers&style=for-the-badge&color=6366f1" />
-  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Open%20To%20Work-✅-success?style=for-the-badge" />
 </p>
 
